@@ -1,4 +1,4 @@
-This is my project.
+This is my greatest project.
 
 ```
 git config --global user.email "you@example.com"
